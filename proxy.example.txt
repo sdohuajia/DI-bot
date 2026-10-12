@@ -1,0 +1,5 @@
+# 可选。每行对应 keys.txt 的同一行；留空表示该钱包直连。
+# 格式：host:port 或 host:port:user:password
+# 示例：
+# 127.0.0.1:7890
+# proxy.example.com:10000:username:password

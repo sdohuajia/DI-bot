@@ -1,0 +1,5 @@
+aiohttp>=3.10
+aiosqlite>=0.20
+eth-account>=0.13
+eth-utils>=5.0
+curl_cffi>=0.10
